@@ -1,0 +1,128 @@
+body {
+    background-color: #000000;
+    color: #000000;
+    font-family: sans-serif;
+}
+h1 {
+    color: #ffae00;
+    font-family: sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffae00;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color: #fffb00;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #ffae00;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+a {
+    color: #ffffff;
+}
+a:hover {
+    color: #fffb00;
+}
+.logo img {
+    height: 100px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+h2 {
+    color: #ffae00;
+}
+h2 {
+    font-size: 2em;
+    margin-top: 0;
+}
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #ffae00;
+}
+p {
+    margin-bottom: 20px;
+    color: #ffae00;
+
+}
+footer p {
+    margin: 5px 0;
+}
+footer a {
+    color: white;
+    text-decoration: underline;
+}
+footer a:hover {
+    color: #fffb00;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #ffae00;
+}
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+button {
+    background-color: #ffae00;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #fffb00;
+}
+button {
+    background-color: #ffae00;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #fffb00;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+/* Estilos generales */
+body { 
+    background-color: #000000; 
+    color: #ffffff; 
+    font-family: sans-serif; 
+}
